@@ -1,8 +1,11 @@
 # Fractals
 My programs that do some stuff with fractals
 
-##MandelbrotFractal
+## MandelbrotFractal
 Рассчёт фрактала мандельброта на комплексной плоскости с использованием OpenMP (вычисление на всех ядрах параллельно), отрисовка с помощью SFML библиотеки
+
+Составленная из сотен кадров анимация увеличения итераций в основном цикле
+![Alt text](https://github.com/GARFILD1000/Fractals/blob/master/giphy.gif?raw=true "Гифка")
 
 ![Alt text](https://github.com/GARFILD1000/Fractals/blob/master/screen1.png?raw=true "Скриншот 1")
 
@@ -12,6 +15,4 @@ My programs that do some stuff with fractals
 
 ![Alt text](https://github.com/GARFILD1000/Fractals/blob/master/screen4.png?raw=true "Скриншот 4")
 
-Составленная из сотен кадров анимация увеличения итераций в основном цикле
-![Alt text](https://github.com/GARFILD1000/Fractals/blob/master/giphy.gif?raw=true "Гифка")
 
